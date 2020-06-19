@@ -6,7 +6,7 @@ In order to make use of Rest-Assured in a Maven project, the following dependenc
 
 ![](image/rest_assured.png)
 
-For using JSON Object during test the following dependency needs to be included:
+For using JSON Object during testing the following dependency needs to be included:
 
 ![](image/jsom.png)
 
@@ -23,14 +23,14 @@ As a first step let us create a controller class for simple CRUD operation on mo
 ![](image/Account.png)
 
 
-**REST APIs for performing CRUD Operation: **
+**REST APIs for performing CRUD Operation:**
 
 
 ![](image/Controller.png)
 
 #### 2. Testing Class
 
-First of all we need to mention our port number then for putting data in our payload in JSON format we use JSON Object.
+First of all we need to mention our port number. For putting data in our payload in JSON format we use JSON Object.
 
 ![](image/Test.png)
 
