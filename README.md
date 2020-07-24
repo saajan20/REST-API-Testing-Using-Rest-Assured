@@ -1,4 +1,4 @@
-# REST API Testing Using Rest-Assured
+# REST API Testing Using Rest-Assured Framework
 Rest-Assured is a Java-based library that is used to test RESTful Web Services. This library behaves like a headless Client to access REST web services. We can create highly customize-able HTTP Requests to send to the Restful server.
 
 ### Maven Dependencies
